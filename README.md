@@ -10,7 +10,7 @@ The dataset was cleaned, transformed, stored in SQL Server, and visualized in Po
 
 * Source: Retail supply dataset
 * Rows: 30,000
-* Key fields: Year, Month, Supplier, Item Type, Sales, Transfers, Warehouse Sales, Date
+* Key fields: Year, Month, Supplier, Item Type, Retail Sales, Retail Transfers, Warehouse Sales, Date
 
 
 ## Tools & Technologies
@@ -33,7 +33,7 @@ The dataset was cleaned, transformed, stored in SQL Server, and visualized in Po
 
 ## Dashboard Highlights
 
-* KPI Cards for Total Sales, Transfers, Warehouse Sales
+* KPI Cards for Total Sales, Retail Sales, Warehouse Sales
 * Supplier performance visualization
 * Item type sales analysis
 * Monthly sales trend
@@ -53,3 +53,4 @@ To demonstrate skills in:
 
 Shaheer Ahmad
 BSCS Graduate – Bahria University
+
