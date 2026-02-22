@@ -49,8 +49,8 @@ To demonstrate skills in:
 * Business Insights generation
 
 
-## 👨‍💻 Author
+## Author
 
-Shaheer Ahmad
-BSCS Graduate – Bahria University
+Muhammad Shaheer Ahmad Chishty
+
 
